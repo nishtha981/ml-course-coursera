@@ -9,7 +9,7 @@ newIssueWelcomeComment: >
 # Comment to be posted to on PRs from first time contributors in your repository
 newPRWelcomeComment: >
   Thanks for opening this pull request! Please check out our contributing guidelines at https://github.com/pydata/xarray/blob/main/CONTRIBUTING.md .
-  https://media.giphy.com/media/wv1RNuvWMjQ10bzExO/giphy.gif
+  ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
 
