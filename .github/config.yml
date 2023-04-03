@@ -1,18 +1,19 @@
-# Configuration for new-issue-welcome - https://github.com/nishtha981/ml-course-coursera
-
 # Comment to be posted to on first time issues
 newIssueWelcomeComment: >
-  Thanks for opening your first issue here! Be sure to follow the issue template!
+  Thanks for opening your first issue here at xarray! Be sure to follow the issue template!
 
-# Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
+  If you have an idea for a solution, we would really welcome a Pull Request with proposed changes.
+  See the [Contributing Guide](https://docs.xarray.dev/en/latest/contributing.html) for more.
+
+  It may take us a while to respond here, but we really value your contribution. Contributors like you help make xarray better. Thank you!
 
 # Comment to be posted to on PRs from first time contributors in your repository
 newPRWelcomeComment: >
-  Thanks for opening this pull request! Please check out our contributing guidelines at https://github.com/pydata/xarray/blob/main/CONTRIBUTING.md .
-  ![coding gif](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+  Thank you for opening this pull request! It may take us a few days to respond here, so thank you for being patient. 
 
-# Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
+  If you have questions, some answers may be found in our [contributing guidelines](http://docs.xarray.dev/en/stable/contributing.html).
 
 # Comment to be posted to on pull requests merged by a first time user
 firstPRMergeComment: >
-  Congrats on merging your first pull request! We here at xarray are proud of you!
+  Congratulations on completing your first pull request! Welcome to Xarray!
+  We are proud of you, and hope to see you again!
